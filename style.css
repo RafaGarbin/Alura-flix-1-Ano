@@ -72,14 +72,14 @@
      .propaganda{
         background-color: rgb(136, 10, 10);
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
         align-items: center;
         padding: 3em;
     }
       
     
     .imagemdelivery {
-        width: 10%; 
+        width: 30%; 
     }
     
    
