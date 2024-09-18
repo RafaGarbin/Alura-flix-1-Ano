@@ -13,7 +13,7 @@
         width:30%;
     }
     .principal{
-        background-image: rgb(238, 70, 70);
+        background-color: rgb(238, 70, 70);
          padding: 80px;
     
     
@@ -46,7 +46,7 @@
         padding: 30px;
         font-size: 25px;
     }
-    .cardapio{ background-image: linear-gradient(rgb(238, 70, 70), rgb(135, 6, 6));
+    .cardapio{ background-color: rgb(135, 6, 6);
     
         }
      .lista{
