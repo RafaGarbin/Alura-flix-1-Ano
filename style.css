@@ -55,16 +55,15 @@
         border-radius: 2px;
         padding: 20px;
         align-items: center; 
-        border-color: black;   
-        justify-content: space-around;
-        
+        border-color: black;
+        text-align: center;
         
      }
      .botao{
         background-color: rgba(136, 10, 10, 0.951);
         font-size: 20px;
         color: black;
-        width: 10%;
+        width: 30%;
 
 
      }
