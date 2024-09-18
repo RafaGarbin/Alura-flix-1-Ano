@@ -57,9 +57,7 @@
         width: 70%;
         margin: 0 auto; 
         padding: 20px;
-        border: 2px solid black; 
-        border-radius: 10px;
-        transition: background-color 0.3s; 
+        
      }
      .botao{
         background-color: rgba(136, 10, 10, 0.951);
@@ -67,6 +65,9 @@
         color: black;
         width: 23%;
         padding: 10px;
+        border: 2px solid black; 
+        border-radius: 10px;
+        transition: background-color 0.3s;
      }
      .propaganda{
         background-color: rgb(136, 10, 10);
