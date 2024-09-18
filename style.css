@@ -51,29 +51,57 @@
            
         }
      .botoes{
+              
+        display: flex; 
+        justify-content: space-between;
         width: 70%;
-        border-radius: 2px;
+        margin: 0 auto; 
         padding: 20px;
-        align-items: center; 
-        border-color: black;
-        text-align: center;
-        
+        border: 2px solid black; 
+        border-radius: 10px;
+        transition: background-color 0.3s; 
      }
      .botao{
         background-color: rgba(136, 10, 10, 0.951);
         font-size: 20px;
         color: black;
-        width: 15%;
-
-
+        width: 23%;
+        padding: 10px;
      }
      .propaganda{
         background-color: rgb(136, 10, 10);
-        text-align: center;
-        justify-content: center;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
         padding: 3em;
     }
+   
+
+
+
+    .botoes {
+        display: flex; /* Alinha os botões em uma linha */
+        justify-content: space-between; /* Espaço entre os botões */
+        width: 70%;
+        margin: 0 auto; /* Centraliza a div de botões */
+        padding: 20px;
+    }
+    
+    .botao {
+        background-color: rgba(136, 10, 10, 0.951);
+        font-size: 20px;
+        color: black;
+        width: 23%; /* Ajuste para que os botões fiquem distantes */
+        padding: 10px; /* Adiciona um pouco de padding */
+    }
+    
+    
+    
     .imagemdelivery {
-        width: 15%;
-        align-items: center;
+        width: 48%; 
+    }
+    
+    .propaganda iframe {
+        width: 48%; 
+        height: auto; 
     }
