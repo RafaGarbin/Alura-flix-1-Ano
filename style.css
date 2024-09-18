@@ -54,7 +54,7 @@
         text-align: center;
         padding: 45px;
     justify-content: space-around;}
-    .lista{display: flex;}
+    .lista{display: block;}
     .imagemdelivery {
         width: 20%;
         align-items: center;
