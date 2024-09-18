@@ -3,7 +3,7 @@
     
     .logomarca{
     
-        background: rgb(127, 11, 2);
+       background-color: black;
         text-align: center;
         
     }
@@ -13,7 +13,7 @@
         width:30%;
     }
     .principal{
-        background-color: rgb(238, 70, 70);
+        background-color: rgb(127, 11, 2);
          padding: 80px;
     
     
@@ -50,6 +50,7 @@
     
         }
      .lista{
+        display: block;
         align-items: center;
         text-align: center;
         padding: 45px;
