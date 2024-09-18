@@ -67,6 +67,8 @@
 
 
      }
+     .video{background-color: rgb(136, 10, 10);
+        text-align: center;}
     .imagemdelivery {
         width: 20%;
         align-items: center;
