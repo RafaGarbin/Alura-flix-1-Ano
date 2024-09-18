@@ -48,7 +48,8 @@
     }
     .cardapio{ 
         background-color:  rgb(136, 10, 10);
-       
+        display: flex;        
+        
         }
      .lista{
         align-items: center;
