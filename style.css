@@ -13,7 +13,7 @@
         width:30%;
     }
     .principal{
-        background-image: linear-gradient(rgb(127, 11, 2), rgb(238, 70, 70));
+        background-image: rgb(238, 70, 70);
          padding: 80px;
     
     
@@ -49,7 +49,8 @@
     .cardapio{ background-image: linear-gradient(rgb(238, 70, 70), rgb(135, 6, 6));
     
         }
-     .lista{align-items: center;
+     .lista{
+        align-items: center;
         text-align: center;
         padding: 45px;
     justify-content: space-around;}
