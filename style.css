@@ -56,7 +56,7 @@
         justify-content: space-between;
         width: 70%;
         margin: 0 auto; 
-        padding: 20px;
+        padding: 30px;
         
      }
      .botao{
@@ -64,7 +64,7 @@
         font-size: 20px;
         color: black;
         width: 23%;
-        padding: 30px;
+        padding: 15px;
         border: 2px solid black; 
         border-radius: 10px;
         transition: background-color 0.3s;
