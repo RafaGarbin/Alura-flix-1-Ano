@@ -76,27 +76,7 @@
         align-items: center;
         padding: 3em;
     }
-   
-
-
-
-    .botoes {
-        display: flex; /* Alinha os botões em uma linha */
-        justify-content: space-between; /* Espaço entre os botões */
-        width: 70%;
-        margin: 0 auto; /* Centraliza a div de botões */
-        padding: 20px;
-    }
-    
-    .botao {
-        background-color: rgba(136, 10, 10, 0.951);
-        font-size: 20px;
-        color: black;
-        width: 23%; /* Ajuste para que os botões fiquem distantes */
-        padding: 10px; /* Adiciona um pouco de padding */
-    }
-    
-    
+      
     
     .imagemdelivery {
         width: 48%; 
