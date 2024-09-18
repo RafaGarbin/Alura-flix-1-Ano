@@ -1,0 +1,60 @@
+*{margin: 0;
+    padding: 0;}
+    
+    .logomarca{
+    
+        background: rgb(127, 11, 2);
+        text-align: center;
+        
+    }
+    
+    .imagem__logo{
+    
+        width:30%;
+    }
+    .principal{
+        background-image: linear-gradient(rgb(127, 11, 2), rgb(238, 70, 70));
+         padding: 80px;
+    
+    
+    }
+    h1 {
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 55px;
+        
+    }
+    
+    p { color: rgb(248, 250, 244);
+        text-align: center;
+        font-size: 28px;
+    }
+    
+    h2 {
+        text-align: center;
+        font-size: 45px;
+        color: #FFFFFF;
+    }
+    .texto {padding: 30px;}
+    .itens {
+        font-style: italic;
+    }
+    
+    ul {
+        display: inline-block;
+        vertical-align: top;
+        padding: 30px;
+        font-size: 25px;
+    }
+    .cardapio{ background-image: linear-gradient(rgb(238, 70, 70), rgb(135, 6, 6));
+    
+        }
+     .lista{align-items: center;
+        text-align: center;
+        padding: 45px;
+    justify-content: space-around;}
+    
+    .imagemdelivery {
+        width: 20%;
+        align-items: center;
+    }
