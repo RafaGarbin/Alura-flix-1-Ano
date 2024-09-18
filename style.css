@@ -48,10 +48,12 @@
     }
     .cardapio{ 
         background-color:  rgb(136, 10, 10);
-         
-        
+           
         }
      .botao{
+  
+        border-radius: 2px;
+        color: blueviolet;
      
         
      }
