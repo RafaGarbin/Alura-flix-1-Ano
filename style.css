@@ -54,13 +54,17 @@
         width: 70%;
         border-radius: 2px;
         padding: 20px;
-        align-items: center;    
+        align-items: center; 
+        border-color: black;   
+        
         
      }
      .botao{
-        font-size: 26px;
+        background-color: rgba(136, 10, 10, 0.951);
+        font-size: 20px;
         color: black;
-        
+
+
      }
     .imagemdelivery {
         width: 20%;
