@@ -50,11 +50,11 @@
         background-color:  rgb(136, 10, 10);
            
         }
-     .botao{
+     .botoes{
   
         border-radius: 2px;
-        color: blueviolet;
-     
+        padding: 20px;
+        align-items: center;    
         
      }
     .imagemdelivery {
