@@ -51,10 +51,15 @@
            
         }
      .botoes{
-  
+        width: 70%;
         border-radius: 2px;
         padding: 20px;
         align-items: center;    
+        
+     }
+     .botao{
+        font-size: 26px;
+        color: black;
         
      }
     .imagemdelivery {
