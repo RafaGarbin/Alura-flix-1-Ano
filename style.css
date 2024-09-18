@@ -50,7 +50,7 @@
     
         }
      .lista{
-        display: block;
+        display: inline-block;
         align-items: center;
         text-align: center;
         padding: 45px;
